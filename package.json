@@ -1,0 +1,10 @@
+{
+  "name": "yarntrial",
+  "packageManager": "yarn@3.2.4",
+  "scripts": {
+    "dev": "yarn node ./index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
